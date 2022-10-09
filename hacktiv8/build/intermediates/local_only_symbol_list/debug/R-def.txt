@@ -33,6 +33,7 @@ drawable mu
 drawable pool
 drawable psg
 drawable square
+drawable todolist
 id ACTION_NOTIF
 id BIGPICTURESTYLE_NOTIF
 id BIGTEXTSTYLE_NOTIF
@@ -186,6 +187,7 @@ string implicit_button
 string item_list
 string label_team1
 string label_team2
+string my_todoList
 string night_mode
 string project_id
 string zero

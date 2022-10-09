@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
-INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
-INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
-INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
+INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
+INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
+INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\4fda506388bd184a2aa92296377853e5\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\316225dc7362f218cf7ef7d82990e173\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\f3d98ef11c142fc1ab7aa6ab289a1339\transformed\appcompat-resources-1.5.1\AndroidManifest.xml:17:1-22:12
@@ -72,27 +72,27 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nasrul Wahabi\.g
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\278dc29f0623aadea82d99de2f6d77a6\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\0bec845f6b293929bb6bcf403f1ceaec\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\294ce4756884f83db0ec41d640c8fc3e\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
-INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
-INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
+INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
+INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
+INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
 	package
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:4:5-34
-		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
-		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
+		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
-		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:2:1-249:12
+		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:6:5-67
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:6:5-67
 MERGED from [com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:26:5-67
 MERGED from [com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:26:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:23:5-67
@@ -108,9 +108,9 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:21.1.1] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\955bc6b18bf138957a060598c8569d87\transformed\play-services-measurement-sdk-api-21.1.1\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\955bc6b18bf138957a060598c8569d87\transformed\play-services-measurement-sdk-api-21.1.1\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:6:22-64
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:6:22-64
 application
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:8:5-247:19
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:8:5-247:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\4fda506388bd184a2aa92296377853e5\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\4fda506388bd184a2aa92296377853e5\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\316225dc7362f218cf7ef7d82990e173\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -170,221 +170,221 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Na
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\a3aef3274c222e47595fbfeb9137a19e\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:13:9-41
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:13:9-44
 	android:fullBackupContent
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:11:9-54
 	android:roundIcon
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:14:9-54
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:14:9-47
 	tools:targetApi
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:18:9-29
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:18:9-29
 	android:icon
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:12:9-43
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:12:9-42
 	android:allowBackup
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:16:9-56
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:16:9-56
 	android:dataExtractionRules
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:10:9-65
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:10:9-65
 	android:usesCleartextTraffic
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:17:9-44
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:17:9-44
 activity#com.belajar.android.ToDoListApp
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:19:9-31:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:19:9-31:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:21:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:21:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:20:13-40
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:20:13-40
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:23:17-69
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:23:25-66
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:25:17-77
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:25:27-74
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:25:27-74
 meta-data#android.app.lib_name
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:28:13-30:36
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:28:13-30:36
 	android:value
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:30:17-33
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:30:17-33
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:29:17-52
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:29:17-52
 activity#com.belajar.android.CDRetrofitMain
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:32:9-38:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:32:9-38:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:34:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:34:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:33:13-43
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:33:13-43
 activity#com.belajar.android.CovidTrackerAppMainActivity
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:39:9-45:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:39:9-45:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:41:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:41:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:40:13-56
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:40:13-56
 activity#com.belajar.android.RetrofitMainActivity
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:46:9-52:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:46:9-52:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:48:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:48:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:47:13-49
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:47:13-49
 activity#com.belajar.android.NotificationTestMain
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:53:9-59:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:53:9-59:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:55:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:55:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:54:13-49
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:54:13-49
 receiver#com.belajar.android.NotificationTestReceiver
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:61:9-67:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:61:9-67:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:63:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:63:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:62:13-53
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:62:13-53
 intent-filter#category:name:android.intent.category.DEFAULT
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:64:13-66:29
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:64:13-66:29
 category#android.intent.category.DEFAULT
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:65:17-76
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:65:17-76
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:65:27-73
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:65:27-73
 activity#com.belajar.android.SQLiteMainActivity
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:68:9-70:39
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:68:9-70:39
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:70:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:70:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:69:13-47
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:69:13-47
 activity#com.belajar.android.BackgroundServices
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:71:9-74:45
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:71:9-74:45
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:73:13-37
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:73:13-37
 	tools:ignore
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:74:13-42
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:74:13-42
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:72:13-47
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:72:13-47
 activity#com.belajar.android.BackgroundProcessing
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:75:9-77:39
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:75:9-77:39
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:77:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:77:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:76:13-49
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:76:13-49
 activity#com.belajar.android.DelightfulUserExperiences
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:78:9-80:39
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:78:9-80:39
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:80:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:80:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:79:13-54
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:79:13-54
 activity#com.belajar.android.UserInteraction2
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:81:9-83:40
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:81:9-83:40
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:83:13-37
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:83:13-37
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:82:13-45
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:82:13-45
 activity#com.belajar.android.UserInteraction
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:84:9-94:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:84:9-94:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:86:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:86:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:85:13-44
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:85:13-44
 activity#com.belajar.android.CounterHomework
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:95:9-105:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:95:9-105:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:97:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:97:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:96:13-44
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:96:13-44
 activity#com.belajar.android.HacktivLayoutViewConstraint
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:106:9-116:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:106:9-116:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:108:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:108:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:107:13-56
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:107:13-56
 activity#com.belajar.android.HacktivLayoutViewRelative
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:117:9-127:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:117:9-127:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:119:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:119:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:118:13-54
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:118:13-54
 activity#com.belajar.android.HacktivLayoutViewLinear
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:128:9-138:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:128:9-138:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:130:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:130:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:129:13-52
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:129:13-52
 activity#com.belajar.android.HacktivSesi6_view
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:139:9-141:39
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:139:9-141:39
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:141:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:141:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:140:13-46
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:140:13-46
 activity#com.belajar.android.HacktivSesi6_main
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:142:9-152:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:142:9-152:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:144:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:144:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:143:13-46
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:143:13-46
 activity#com.belajar.android.MainActivity
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:153:9-155:40
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:153:9-155:40
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:155:13-37
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:155:13-37
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:154:13-41
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:154:13-41
 activity#com.belajar.android.IntentApp2
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:156:9-158:39
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:156:9-158:39
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:158:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:158:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:157:13-39
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:157:13-39
 activity#com.belajar.android.IntentApp
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:159:9-169:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:159:9-169:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:161:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:161:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:160:13-38
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:160:13-38
 activity#com.belajar.android.RadioButtons
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:170:9-180:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:170:9-180:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:172:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:172:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:171:13-41
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:171:13-41
 activity#com.belajar.android.CheckButton
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:181:9-191:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:181:9-191:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:183:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:183:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:182:13-40
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:182:13-40
 activity#com.belajar.android.ImagesView
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:192:9-202:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:192:9-202:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:194:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:194:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:193:13-39
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:193:13-39
 activity#com.belajar.android.EditText
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:203:9-213:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:203:9-213:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:205:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:205:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:204:13-37
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:204:13-37
 activity#com.belajar.android.Buttons
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:214:9-224:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:214:9-224:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:216:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:216:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:215:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:215:13-36
 activity#com.belajar.android.TextViews
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:225:9-235:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:225:9-235:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:227:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:227:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:226:13-38
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:226:13-38
 activity#com.belajar.android.Layouts
-ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:236:9-246:20
+ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:236:9-246:20
 	android:exported
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:238:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:238:13-36
 	android:name
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml:237:13-36
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:237:13-36
 uses-sdk
-INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\4fda506388bd184a2aa92296377853e5\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\4fda506388bd184a2aa92296377853e5\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\316225dc7362f218cf7ef7d82990e173\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
@@ -521,16 +521,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Nasrul Wahabi\.gradle\caches\t
 MERGED from [androidx.print:print:1.0.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\0bec845f6b293929bb6bcf403f1ceaec\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\294ce4756884f83db0ec41d640c8fc3e\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\294ce4756884f83db0ec41d640c8fc3e\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-native\hacktiv8\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nasrul Wahabi\Documents\mobile-developer\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:25:5-79
 MERGED from [com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:24:5-79
