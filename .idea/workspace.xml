@@ -16,15 +16,16 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64a8d2b8-a943-49aa-8d74-8a070e9a752f" name="Changes" comment="retrofit covid tracker tanpa menggunakan list DONE">
+    <list default="true" id="64a8d2b8-a943-49aa-8d74-8a070e9a752f" name="Changes" comment="change icon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/ToDoListApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/hacktiv8/src/main/java/com/belajar/android/ToDoListApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[scdaijvoh6qwnf7h]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -957,7 +958,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664265643411</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="change icon">
+      <created>1665862504956</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1665862504956</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -973,7 +981,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="java tugas sesi 6 : cleare" />
     <MESSAGE value="rename module name to hacktiv8" />
     <MESSAGE value="java android studio components and user interactions" />
     <MESSAGE value="java android hacktiv kelas ke-5&#10;tugas RecycleView Adapter clear" />
@@ -998,6 +1005,7 @@
     <MESSAGE value="android broadcast reveiver" />
     <MESSAGE value="covid tracker done" />
     <MESSAGE value="retrofit covid tracker tanpa menggunakan list DONE" />
-    <option name="LAST_COMMIT_MESSAGE" value="retrofit covid tracker tanpa menggunakan list DONE" />
+    <MESSAGE value="change icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="change icon" />
   </component>
 </project>

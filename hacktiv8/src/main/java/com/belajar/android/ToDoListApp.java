@@ -74,6 +74,7 @@ public class ToDoListApp extends AppCompatActivity implements
 
                 for(DataSnapshot data : snapshot.getChildren()){
                     ListModuleClass module = data.getValue(ListModuleClass.class);
+                    assert module != null;
                     module.setKey(data.getKey());
                     listTODO.add(module);
                     key = data.getKey();
