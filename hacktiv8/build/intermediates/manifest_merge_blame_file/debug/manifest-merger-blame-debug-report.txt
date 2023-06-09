@@ -6,270 +6,270 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
+8-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
+9-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:6:5-67
-11-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:6:22-64
+11-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:5:22-64
 12
 13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 14    <!-- <uses-sdk android:minSdkVersion="14"/> -->
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-15-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:25:5-79
-15-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:25:22-76
+15-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e355c0e4e9fe4ecb971d81974ca6e8f7\transformed\firebase-database-20.0.6\AndroidManifest.xml:25:5-79
+15-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e355c0e4e9fe4ecb971d81974ca6e8f7\transformed\firebase-database-20.0.6\AndroidManifest.xml:25:22-76
 16    <uses-permission android:name="android.permission.WAKE_LOCK" />
-16-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e20fa19dc306427c7694b1a33f8b55f2\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:24:5-68
-16-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e20fa19dc306427c7694b1a33f8b55f2\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:24:22-65
+16-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e94f723e50658edcf293f342a2faecf7\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:24:5-68
+16-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e94f723e50658edcf293f342a2faecf7\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:24:22-65
 17    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-17-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e20fa19dc306427c7694b1a33f8b55f2\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:25:5-79
-17-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e20fa19dc306427c7694b1a33f8b55f2\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:25:22-76
+17-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e94f723e50658edcf293f342a2faecf7\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:25:5-79
+17-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e94f723e50658edcf293f342a2faecf7\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:25:22-76
 18    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
-18-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:26:5-110
-18-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:26:22-107
+18-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\7c3d00b041be25a6503fd6bf521b97b9\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:26:5-110
+18-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\7c3d00b041be25a6503fd6bf521b97b9\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:26:22-107
 19
 20    <application
-20-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:8:5-32:19
+20-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:7:5-31:19
 21        android:allowBackup="true"
-21-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:9:9-35
+21-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:8:9-35
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-22-->[androidx.core:core:1.8.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\a3aef3274c222e47595fbfeb9137a19e\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+22-->[androidx.core:core:1.8.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ce71ea0e96ba14e5fcac78923d14c5ee\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 23        android:dataExtractionRules="@xml/data_extraction_rules"
-23-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:10:9-65
+23-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:9:9-65
 24        android:debuggable="true"
 25        android:fullBackupContent="@xml/backup_rules"
-25-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:11:9-54
+25-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:10:9-54
 26        android:icon="@mipmap/ic_launcher"
-26-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:12:9-43
+26-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:11:9-43
 27        android:label="@string/my_todoList"
-27-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:13:9-44
+27-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:12:9-44
 28        android:roundIcon="@mipmap/ic_launcher_round"
-28-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:14:9-54
+28-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:13:9-54
 29        android:supportsRtl="true"
-29-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:15:9-35
+29-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:14:9-35
 30        android:testOnly="true"
 31        android:theme="@style/Theme.AppCompat.DayNight"
-31-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:16:9-56
+31-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:15:9-56
 32        android:usesCleartextTraffic="true" >
-32-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:17:9-44
+32-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:16:9-44
 33        <activity
-33-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:19:9-31:20
+33-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:18:9-30:20
 34            android:name="com.belajar.android.ToDoListApp"
-34-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:20:13-40
+34-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:19:13-40
 35            android:exported="true" >
-35-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:21:13-36
+35-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:20:13-36
 36            <intent-filter>
-36-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:22:13-26:29
+36-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:21:13-25:29
 37                <action android:name="android.intent.action.MAIN" />
-37-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:23:17-69
-37-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:23:25-66
+37-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:22:17-69
+37-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:22:25-66
 38
 39                <category android:name="android.intent.category.LAUNCHER" />
-39-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:25:17-77
-39-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:25:27-74
+39-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:24:17-77
+39-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:24:27-74
 40            </intent-filter>
 41
 42            <meta-data
-42-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:28:13-30:36
+42-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:27:13-29:36
 43                android:name="android.app.lib_name"
-43-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:29:17-52
+43-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:28:17-52
 44                android:value="" />
-44-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:30:17-33
+44-->C:\Users\Nasrul Wahabi\Documents\mobile-developer\Final Project - Hacktiv8\android-java-to-do-list\hacktiv8\src\main\AndroidManifest.xml:29:17-33
 45        </activity>
 46
 47        <service
-47-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:29:9-35:19
+47-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e355c0e4e9fe4ecb971d81974ca6e8f7\transformed\firebase-database-20.0.6\AndroidManifest.xml:29:9-35:19
 48            android:name="com.google.firebase.components.ComponentDiscoveryService"
-48-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:30:13-84
+48-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e355c0e4e9fe4ecb971d81974ca6e8f7\transformed\firebase-database-20.0.6\AndroidManifest.xml:30:13-84
 49            android:directBootAware="true"
-49-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\3f635708344cc08d9b82542eeae14cf6\transformed\firebase-common-20.1.2\AndroidManifest.xml:35:13-43
+49-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\c72e452f7331c2e7fd38b7489f2d523a\transformed\firebase-common-20.1.2\AndroidManifest.xml:35:13-43
 50            android:exported="false" >
-50-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:31:13-37
+50-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e355c0e4e9fe4ecb971d81974ca6e8f7\transformed\firebase-database-20.0.6\AndroidManifest.xml:31:13-37
 51            <meta-data
-51-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:32:13-34:85
+51-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e355c0e4e9fe4ecb971d81974ca6e8f7\transformed\firebase-database-20.0.6\AndroidManifest.xml:32:13-34:85
 52                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-52-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:33:17-109
+52-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e355c0e4e9fe4ecb971d81974ca6e8f7\transformed\firebase-database-20.0.6\AndroidManifest.xml:33:17-109
 53                android:value="com.google.firebase.components.ComponentRegistrar" />
-53-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\1a0eebbc1395f88bc4f284f7bf1eeaad\transformed\firebase-database-20.0.6\AndroidManifest.xml:34:17-82
+53-->[com.google.firebase:firebase-database:20.0.6] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e355c0e4e9fe4ecb971d81974ca6e8f7\transformed\firebase-database-20.0.6\AndroidManifest.xml:34:17-82
 54            <meta-data
-54-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:67:13-69:85
+54-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:67:13-69:85
 55                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-55-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:68:17-109
+55-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:68:17-109
 56                android:value="com.google.firebase.components.ComponentRegistrar" />
-56-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:69:17-82
+56-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:69:17-82
 57            <meta-data
-57-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e20fa19dc306427c7694b1a33f8b55f2\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:31:13-33:85
+57-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e94f723e50658edcf293f342a2faecf7\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:31:13-33:85
 58                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
-58-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e20fa19dc306427c7694b1a33f8b55f2\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:32:17-139
+58-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e94f723e50658edcf293f342a2faecf7\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:32:17-139
 59                android:value="com.google.firebase.components.ComponentRegistrar" />
-59-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e20fa19dc306427c7694b1a33f8b55f2\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:33:17-82
+59-->[com.google.android.gms:play-services-measurement-api:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e94f723e50658edcf293f342a2faecf7\transformed\play-services-measurement-api-21.1.1\AndroidManifest.xml:33:17-82
 60            <meta-data
-60-->[com.google.firebase:firebase-installations:17.0.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\af8baff581df887fbdfcbbf02bcd63b9\transformed\firebase-installations-17.0.2\AndroidManifest.xml:18:13-20:85
+60-->[com.google.firebase:firebase-installations:17.0.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\bcac19a31e211950d0656914e7afc270\transformed\firebase-installations-17.0.2\AndroidManifest.xml:18:13-20:85
 61                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
-61-->[com.google.firebase:firebase-installations:17.0.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\af8baff581df887fbdfcbbf02bcd63b9\transformed\firebase-installations-17.0.2\AndroidManifest.xml:19:17-127
+61-->[com.google.firebase:firebase-installations:17.0.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\bcac19a31e211950d0656914e7afc270\transformed\firebase-installations-17.0.2\AndroidManifest.xml:19:17-127
 62                android:value="com.google.firebase.components.ComponentRegistrar" />
-62-->[com.google.firebase:firebase-installations:17.0.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\af8baff581df887fbdfcbbf02bcd63b9\transformed\firebase-installations-17.0.2\AndroidManifest.xml:20:17-82
+62-->[com.google.firebase:firebase-installations:17.0.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\bcac19a31e211950d0656914e7afc270\transformed\firebase-installations-17.0.2\AndroidManifest.xml:20:17-82
 63        </service>
 64
 65        <provider
-65-->[com.squareup.picasso:picasso:2.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\b2a63ce13d869b1d83b479a8e75c361e\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
+65-->[com.squareup.picasso:picasso:2.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\d635c70062494edf591d172b7967e882\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
 66            android:name="com.squareup.picasso.PicassoProvider"
-66-->[com.squareup.picasso:picasso:2.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\b2a63ce13d869b1d83b479a8e75c361e\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
+66-->[com.squareup.picasso:picasso:2.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\d635c70062494edf591d172b7967e882\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
 67            android:authorities="com.belajar.android.com.squareup.picasso"
-67-->[com.squareup.picasso:picasso:2.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\b2a63ce13d869b1d83b479a8e75c361e\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
+67-->[com.squareup.picasso:picasso:2.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\d635c70062494edf591d172b7967e882\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
 68            android:exported="false" />
-68-->[com.squareup.picasso:picasso:2.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\b2a63ce13d869b1d83b479a8e75c361e\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
+68-->[com.squareup.picasso:picasso:2.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\d635c70062494edf591d172b7967e882\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
 69
 70        <activity
-70-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:27:9-44:20
+70-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:27:9-44:20
 71            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
-71-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:28:13-80
+71-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:28:13-80
 72            android:excludeFromRecents="true"
-72-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:29:13-46
+72-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:29:13-46
 73            android:exported="true"
-73-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:30:13-36
+73-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:30:13-36
 74            android:launchMode="singleTask"
-74-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:31:13-44
+74-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:31:13-44
 75            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-75-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:32:13-72
+75-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:32:13-72
 76            <intent-filter>
-76-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:33:13-43:29
+76-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:33:13-43:29
 77                <action android:name="android.intent.action.VIEW" />
-77-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:34:17-69
-77-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:34:25-66
+77-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:34:17-69
+77-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:34:25-66
 78
 79                <category android:name="android.intent.category.DEFAULT" />
-79-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:36:17-76
-79-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:36:27-73
+79-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:36:17-76
+79-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:36:27-73
 80                <category android:name="android.intent.category.BROWSABLE" />
-80-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:37:17-78
-80-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:37:27-75
+80-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:37:17-78
+80-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:37:27-75
 81
 82                <data
-82-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:39:17-42:51
+82-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:39:17-42:51
 83                    android:host="firebase.auth"
-83-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:40:21-49
+83-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:40:21-49
 84                    android:path="/"
-84-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:41:21-37
+84-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:41:21-37
 85                    android:scheme="genericidp" />
-85-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:42:21-48
+85-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:42:21-48
 86            </intent-filter>
 87        </activity>
 88        <activity
-88-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:45:9-62:20
+88-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:45:9-62:20
 89            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
-89-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:46:13-79
+89-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:46:13-79
 90            android:excludeFromRecents="true"
-90-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:47:13-46
+90-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:47:13-46
 91            android:exported="true"
-91-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:48:13-36
+91-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:48:13-36
 92            android:launchMode="singleTask"
-92-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:49:13-44
+92-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:49:13-44
 93            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
-93-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:50:13-72
+93-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:50:13-72
 94            <intent-filter>
-94-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:51:13-61:29
+94-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:51:13-61:29
 95                <action android:name="android.intent.action.VIEW" />
-95-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:34:17-69
-95-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:34:25-66
+95-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:34:17-69
+95-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:34:25-66
 96
 97                <category android:name="android.intent.category.DEFAULT" />
-97-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:36:17-76
-97-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:36:27-73
+97-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:36:17-76
+97-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:36:27-73
 98                <category android:name="android.intent.category.BROWSABLE" />
-98-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:37:17-78
-98-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:37:27-75
+98-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:37:17-78
+98-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:37:27-75
 99
 100                <data
-100-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:39:17-42:51
+100-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:39:17-42:51
 101                    android:host="firebase.auth"
-101-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:40:21-49
+101-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:40:21-49
 102                    android:path="/"
-102-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:41:21-37
+102-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:41:21-37
 103                    android:scheme="recaptcha" />
-103-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\95a0bff3b5416f5f60fc9d8f7182e9b1\transformed\firebase-auth-21.0.8\AndroidManifest.xml:42:21-48
+103-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\ba0fbbe0b47b65b4fb549499b6521ffd\transformed\firebase-auth-21.0.8\AndroidManifest.xml:42:21-48
 104            </intent-filter>
 105        </activity>
 106
 107        <provider
-107-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\3f635708344cc08d9b82542eeae14cf6\transformed\firebase-common-20.1.2\AndroidManifest.xml:26:9-31:39
+107-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\c72e452f7331c2e7fd38b7489f2d523a\transformed\firebase-common-20.1.2\AndroidManifest.xml:26:9-31:39
 108            android:name="com.google.firebase.provider.FirebaseInitProvider"
-108-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\3f635708344cc08d9b82542eeae14cf6\transformed\firebase-common-20.1.2\AndroidManifest.xml:27:13-77
+108-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\c72e452f7331c2e7fd38b7489f2d523a\transformed\firebase-common-20.1.2\AndroidManifest.xml:27:13-77
 109            android:authorities="com.belajar.android.firebaseinitprovider"
-109-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\3f635708344cc08d9b82542eeae14cf6\transformed\firebase-common-20.1.2\AndroidManifest.xml:28:13-72
+109-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\c72e452f7331c2e7fd38b7489f2d523a\transformed\firebase-common-20.1.2\AndroidManifest.xml:28:13-72
 110            android:directBootAware="true"
-110-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\3f635708344cc08d9b82542eeae14cf6\transformed\firebase-common-20.1.2\AndroidManifest.xml:29:13-43
+110-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\c72e452f7331c2e7fd38b7489f2d523a\transformed\firebase-common-20.1.2\AndroidManifest.xml:29:13-43
 111            android:exported="false"
-111-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\3f635708344cc08d9b82542eeae14cf6\transformed\firebase-common-20.1.2\AndroidManifest.xml:30:13-37
+111-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\c72e452f7331c2e7fd38b7489f2d523a\transformed\firebase-common-20.1.2\AndroidManifest.xml:30:13-37
 112            android:initOrder="100" />
-112-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\3f635708344cc08d9b82542eeae14cf6\transformed\firebase-common-20.1.2\AndroidManifest.xml:31:13-36
+112-->[com.google.firebase:firebase-common:20.1.2] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\c72e452f7331c2e7fd38b7489f2d523a\transformed\firebase-common-20.1.2\AndroidManifest.xml:31:13-36
 113
 114        <activity
-114-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\4f36281d46ee8373ea89445f988a58a6\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+114-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\a510e599d9eba9277ca6ff5fe87637d0\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
 115            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-115-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\4f36281d46ee8373ea89445f988a58a6\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+115-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\a510e599d9eba9277ca6ff5fe87637d0\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
 116            android:exported="false"
-116-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\4f36281d46ee8373ea89445f988a58a6\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+116-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\a510e599d9eba9277ca6ff5fe87637d0\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
 117            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-117-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\4f36281d46ee8373ea89445f988a58a6\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+117-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\a510e599d9eba9277ca6ff5fe87637d0\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
 118
 119        <receiver
-119-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:29:9-33:20
+119-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\7c3d00b041be25a6503fd6bf521b97b9\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:29:9-33:20
 120            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-120-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:30:13-85
+120-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\7c3d00b041be25a6503fd6bf521b97b9\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:30:13-85
 121            android:enabled="true"
-121-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:31:13-35
+121-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\7c3d00b041be25a6503fd6bf521b97b9\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:31:13-35
 122            android:exported="false" >
-122-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:32:13-37
+122-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\7c3d00b041be25a6503fd6bf521b97b9\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:32:13-37
 123        </receiver>
 124
 125        <service
-125-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:35:9-38:40
+125-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\7c3d00b041be25a6503fd6bf521b97b9\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:35:9-38:40
 126            android:name="com.google.android.gms.measurement.AppMeasurementService"
-126-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:36:13-84
+126-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\7c3d00b041be25a6503fd6bf521b97b9\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:36:13-84
 127            android:enabled="true"
-127-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:37:13-35
+127-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\7c3d00b041be25a6503fd6bf521b97b9\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:37:13-35
 128            android:exported="false" />
-128-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:38:13-37
+128-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\7c3d00b041be25a6503fd6bf521b97b9\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:38:13-37
 129        <service
-129-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:39:9-43:72
+129-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\7c3d00b041be25a6503fd6bf521b97b9\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:39:9-43:72
 130            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-130-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:40:13-87
+130-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\7c3d00b041be25a6503fd6bf521b97b9\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:40:13-87
 131            android:enabled="true"
-131-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:41:13-35
+131-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\7c3d00b041be25a6503fd6bf521b97b9\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:41:13-35
 132            android:exported="false"
-132-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:42:13-37
+132-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\7c3d00b041be25a6503fd6bf521b97b9\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:42:13-37
 133            android:permission="android.permission.BIND_JOB_SERVICE" />
-133-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e4ef4719f34e687b32f4aced23eba5d2\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:43:13-69
+133-->[com.google.android.gms:play-services-measurement:21.1.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\7c3d00b041be25a6503fd6bf521b97b9\transformed\play-services-measurement-21.1.1\AndroidManifest.xml:43:13-69
 134
 135        <meta-data
-135-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\6386fcf57f58045ac147a5ebc907797a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+135-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e19c590c6602dde21fb158b5ddb278e5\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
 136            android:name="com.google.android.gms.version"
-136-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\6386fcf57f58045ac147a5ebc907797a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+136-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e19c590c6602dde21fb158b5ddb278e5\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
 137            android:value="@integer/google_play_services_version" />
-137-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\6386fcf57f58045ac147a5ebc907797a\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+137-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\e19c590c6602dde21fb158b5ddb278e5\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
 138
 139        <provider
-139-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\8d9e1a410c2a73b622526687aec45bce\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+139-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\93eccb9eefe9ef95b7253b5c1c3ab2c9\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 140            android:name="androidx.startup.InitializationProvider"
-140-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\8d9e1a410c2a73b622526687aec45bce\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+140-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\93eccb9eefe9ef95b7253b5c1c3ab2c9\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
 141            android:authorities="com.belajar.android.androidx-startup"
-141-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\8d9e1a410c2a73b622526687aec45bce\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+141-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\93eccb9eefe9ef95b7253b5c1c3ab2c9\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
 142            android:exported="false" >
-142-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\8d9e1a410c2a73b622526687aec45bce\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+142-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\93eccb9eefe9ef95b7253b5c1c3ab2c9\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
 143            <meta-data
-143-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\8d9e1a410c2a73b622526687aec45bce\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+143-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\93eccb9eefe9ef95b7253b5c1c3ab2c9\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
 144                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-144-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\8d9e1a410c2a73b622526687aec45bce\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+144-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\93eccb9eefe9ef95b7253b5c1c3ab2c9\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
 145                android:value="androidx.startup" />
-145-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\8d9e1a410c2a73b622526687aec45bce\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+145-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\93eccb9eefe9ef95b7253b5c1c3ab2c9\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
 146            <meta-data
-146-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\01fcd40c26c845c4f1495b8e45143789\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+146-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\d45650b2fab55b9dcbcda4ce3b94348c\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
 147                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-147-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\01fcd40c26c845c4f1495b8e45143789\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+147-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\d45650b2fab55b9dcbcda4ce3b94348c\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
 148                android:value="androidx.startup" />
-148-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\01fcd40c26c845c4f1495b8e45143789\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+148-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Nasrul Wahabi\.gradle\caches\transforms-3\d45650b2fab55b9dcbcda4ce3b94348c\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
 149        </provider>
 150    </application>
 151
