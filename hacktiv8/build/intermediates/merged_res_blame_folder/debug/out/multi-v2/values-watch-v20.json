@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.belajar.android.hacktiv8-mergeDebugResources-32:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.belajar.android.hacktiv8-mergeDebugResources-31:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\caches\\transforms-3\\bcd389171ec3467c775ee8ae8b9b65d8\\transformed\\appcompat-1.5.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "C:\\Users\\Nasrul Wahabi\\.gradle\\caches\\transforms-3\\37b1afeaccc64ef6ee06ab3c1428aac3\\transformed\\appcompat-1.5.1\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",
